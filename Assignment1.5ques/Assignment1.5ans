@@ -1,0 +1,35 @@
+1. Explain the main sources of Data flood.
+2. What is the difference between Data and Big data.
+3. What are main reasons behind hadoop becoming the solution for Data explosion.
+
+
+Ques 1) Explain the main sources of Data flood.
+Ans 1)The New York Stock EXchange generate about 4-5 terabytes of data .
+   2)Facebook 7 petabytes of data everyday.
+   3)Ancestory.com generate 10 petabytes of data.
+   4)Internet archive stores 18.5 petabytes of data.
+   5)The Large Hadron Collider near Geneva produces about 30 Petabytes of data every year.
+   
+   Ques 2)What is the difference between Data and Big data.
+   Ans 2)Big data is a term for data sets that are so large or complex that traditional data processing 
+   applications are inadequate. 
+   Big Data refers to humongous volumes of data that cannot be processed 
+   effectively with the traditional applications that exist.
+   Big data has three V's variety,volume,velocity
+   Small data is data in which we have a sense of where 
+   it coming from and how much there will be. For example 
+   companies large and small know their customer base and can design
+   database systems to accommodate this data. Big data is data from sources
+   in which we have no way to estimate how large it will be, how much it will grow and 
+   how much it will change.
+   
+   Ques3) What are main reasons behind hadoop becoming the solution for Data explosion.
+   Ans 3)Companies that invest in and successfully derive value from their data will have 
+   a distinct advantage over their competitors.
+   Business has always wanted to derive insights from information in order 
+   to make better, smarter, real time, fact-based decisions: it is this demand for
+   depth of knowledge that has fueled the growth of big data tools and platforms.
+   Those leading the change are now including big data from both within and outside 
+   the enterprise, including structured and unstructured data, machine data, and online 
+  and mobile data to supplement their organizational data and provide the basis for historical 
+   and forward-looking (statistical and predictive) views. 
